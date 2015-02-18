@@ -1,9 +1,7 @@
----
-title: "Practical Machine Learning - Course Project"
-author: "EricRybicki"
-date: "18 Feb 2015"
-output: html_document
----
+Practical Machine Learning - Course Project
+===========================================
+by ```EricRybicki```
+
 ## Background
 This data set consists of accelerometer data of six participants taken from the belt, forearm, and dumbbell. The participants were asked to perform barbell lifts correctly and incorrectly in five different ways. These exercises were each classified in the data set.
 
